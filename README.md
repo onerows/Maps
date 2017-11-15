@@ -1,2 +1,2 @@
 # Maps
-Example android maps application
+This branch will  experiment with location access
